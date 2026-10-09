@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 — 2026-08-26
+## 0.1.0 (2026-08-26)
 
 - Initial public case-study release of Opportunity Engine.
 - Multi-source collection (mock, JSON, RSS, HTML, optional Playwright).
